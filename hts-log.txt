@@ -1,0 +1,248 @@
+HTTrack3.49-2 launched on Tue, 16 Jul 2024 10:46:43 at http://https://wineandrubs.co.ke/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://wineandrubs.co.ke/ -O "/home/victor/websites/massage site" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:49:18	Warning: 	Found for maps.googleapis.com/
+10:49:18	Warning: 	File has moved from maps.googleapis.com/ to https://developers.google.com/maps/
+10:49:19	Error: 	"Bad Request" (400) at link www.googletagmanager.com/ (from https://wineandrubs.co.ke/)
+10:49:20	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://wineandrubs.co.ke/)
+10:49:21	Error: 	"Forbidden" (403) at link https://wineandrubs.co.ke/xmlrpc.php?rsd (from https://wineandrubs.co.ke/)
+10:50:15	Warning: 	Moved Permanently for wineandrubs.co.ke/robots.txt
+10:50:15	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/robots.txt and https://wineandrubs.co.ke/robots.txt
+10:50:15	Warning: 	Warning moved treated for wineandrubs.co.ke/robots.txt (real one is https://wineandrubs.co.ke/robots.txt)
+10:50:15	Warning: 	Moved Permanently for wineandrubs.co.ke/membership/
+10:50:15	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/membership/ and https://wineandrubs.co.ke/membership/
+10:50:15	Warning: 	File has moved from wineandrubs.co.ke/membership/ to https://wineandrubs.co.ke/membership/
+10:50:15	Warning: 	Moved Permanently for wineandrubs.co.ke/shop/
+10:50:15	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/shop/ and https://wineandrubs.co.ke/shop/
+10:50:15	Warning: 	File has moved from wineandrubs.co.ke/shop/ to https://wineandrubs.co.ke/shop/
+10:50:54	Warning: 	Moved Permanently for wineandrubs.co.ke/packages/
+10:50:54	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/packages/ and https://wineandrubs.co.ke/packages/
+10:50:54	Warning: 	File has moved from wineandrubs.co.ke/packages/ to https://wineandrubs.co.ke/packages/
+10:50:54	Warning: 	Moved Permanently for wineandrubs.co.ke/book/
+10:50:54	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/book/ and https://wineandrubs.co.ke/book/
+10:50:54	Warning: 	File has moved from wineandrubs.co.ke/book/ to https://wineandrubs.co.ke/book/
+10:51:17	Warning: 	Moved Permanently for https://wineandrubs.co.ke/legal//
+10:51:17	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wineandrubs.co.ke/legal// and https://wineandrubs.co.ke/legal/
+10:51:17	Warning: 	File has moved from https://wineandrubs.co.ke/legal// to https://wineandrubs.co.ke/legal/
+10:51:17	Warning: 	Warning: store text/html without scan: /home/victor/websites/massage site/gmpg.org/xfn/.html
+10:51:17	Warning: 	Warning: store text/html without scan: /home/victor/websites/massage site/gmpg.org/xfn/intro.html
+10:51:17	Warning: 	Warning: store text/html without scan: /home/victor/websites/massage site/gmpg.org/xfn/faq.html
+10:51:18	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://wineandrubs.co.ke/who-we-are/)
+10:51:18	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=71
+10:51:18	Warning: 	File has moved from https://wineandrubs.co.ke/?p=71 to https://wineandrubs.co.ke/who-we-are/
+10:51:18	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=884
+10:51:18	Warning: 	File has moved from https://wineandrubs.co.ke/?p=884 to https://wineandrubs.co.ke/reviews/
+10:51:18	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1343
+10:51:18	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1343 to https://wineandrubs.co.ke/catalogue/
+10:51:18	Warning: 	Moved Permanently for wineandrubs.co.ke/massage-indicators/
+10:51:18	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/massage-indicators/ and https://wineandrubs.co.ke/massage-indicators/
+10:51:18	Warning: 	File has moved from wineandrubs.co.ke/massage-indicators/ to https://wineandrubs.co.ke/massage-indicators/
+10:51:18	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=171
+10:51:18	Warning: 	File has moved from https://wineandrubs.co.ke/?p=171 to https://wineandrubs.co.ke/book-now/
+10:51:18	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1164
+10:51:18	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1164 to https://wineandrubs.co.ke/product/gift-card/
+10:54:49	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=83
+10:54:49	Warning: 	File has moved from https://wineandrubs.co.ke/?p=83 to https://wineandrubs.co.ke/my-account/
+10:54:50	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1011
+10:54:50	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1011 to https://wineandrubs.co.ke/services/
+10:54:50	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=3360
+10:54:50	Warning: 	File has moved from https://wineandrubs.co.ke/?p=3360 to https://wineandrubs.co.ke/what-is-myofascial-release-and-does-it-work/
+10:54:50	Error: 	"Forbidden" (403) at link https://wineandrubs.co.ke/xmlrpc.php (from https://wineandrubs.co.ke/what-is-myofascial-release-and-does-it-work/)
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=2038
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=2038 to https://wineandrubs.co.ke/so-what-exactly-is-an-ayurvedic-massage/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1390
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1390 to https://wineandrubs.co.ke/what-is-sensual-massage/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1385
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1385 to https://wineandrubs.co.ke/what-yoni-massage-is-and-how-to-practice-it/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1382
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1382 to https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/
+10:54:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fcraniosacral-therapy-does-it-work%2F (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1378
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1378 to https://wineandrubs.co.ke/anti-cellulite-massage/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1124
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1124 to https://wineandrubs.co.ke/incorporating-massage-into-your-wellness-routine/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1053
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1053 to https://wineandrubs.co.ke/how-pain-can-affect-your-emotional-wellness/
+10:54:51	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1043
+10:54:51	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1043 to https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/
+10:55:07	Warning: 	HTML file (1214323 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/wp-json/
+10:55:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/11
+10:55:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2F&format=xml
+10:56:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/71
+10:56:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwho-we-are%2F
+10:56:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwho-we-are%2F&format=xml
+10:56:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/884
+10:56:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Freviews%2F
+10:56:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Freviews%2F&format=xml
+10:56:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fcatalogue%2F&format=xml
+10:56:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/1343
+10:56:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fbook-now%2F
+10:56:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/171
+10:56:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fbook-now%2F&format=xml
+10:56:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/product/1164
+10:56:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fproduct%2Fgift-card%2F
+10:56:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fproduct%2Fgift-card%2F&format=xml
+10:56:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/1011
+10:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/pages/83
+10:56:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fmy-account%2F&format=xml
+10:56:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fservices%2F
+10:57:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fservices%2F&format=xml
+10:57:19	Warning: 	HTML file (1256 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/product-category/gifts-vouchers/feed/
+10:57:34	Warning: 	HTML file (854 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/what-is-myofascial-release-and-does-it-work/feed/
+10:57:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/product_cat/32
+10:57:38	Warning: 	HTML file (10315 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/category/winenrubs/feed/
+10:57:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/3360
+10:57:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwhat-is-myofascial-release-and-does-it-work%2F
+10:57:40	Warning: 	HTML file (10297 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/author/artur/feed/
+10:57:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/users/12
+10:57:43	Warning: 	HTML file (843 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/so-what-exactly-is-an-ayurvedic-massage/feed/
+10:57:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/2038
+10:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/categories/38
+10:57:56	Warning: 	HTML file (93 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/xmlrpc.php?rsd
+10:57:58	Error: 	"Forbidden" (403) at link https://wineandrubs.co.ke/xmlrpc.php?rsd (from https://wineandrubs.co.ke/)
+10:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fso-what-exactly-is-an-ayurvedic-massage%2F&format=xml
+10:58:02	Warning: 	HTML file (150437 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/who-we-are/
+10:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fso-what-exactly-is-an-ayurvedic-massage%2F
+10:58:06	Warning: 	HTML file (640 bytes) retransferred due to lack of cache: wineandrubs.co.ke/membership/
+10:58:08	Warning: 	Moved Permanently for wineandrubs.co.ke/membership/
+10:58:08	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/membership/ and https://wineandrubs.co.ke/membership/
+10:58:08	Warning: 	File has moved from wineandrubs.co.ke/membership/ to https://wineandrubs.co.ke/membership/
+10:58:08	Warning: 	HTML file (636 bytes) retransferred due to lack of cache: wineandrubs.co.ke/packages/
+10:58:09	Warning: 	Retry after error -4 (No data (connection closed)) at link wineandrubs.co.ke/packages/ (from https://wineandrubs.co.ke/)
+10:58:25	Warning: 	HTML file (794 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/what-is-sensual-massage/feed/
+10:58:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1390
+10:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwhat-is-sensual-massage%2F&format=xml
+10:58:48	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/what-yoni-massage-is-and-how-to-practice-it/feed/
+10:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwhat-is-sensual-massage%2F
+10:58:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1385
+10:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/01/yoni_massage_Stocksy_txp5e75d7acJpK300_Medium_686941_Header-1024x575.jpg?w=1155&h=1528
+10:59:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwhat-yoni-massage-is-and-how-to-practice-it%2F&format=xml
+10:59:08	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/feed/
+10:59:11	Warning: 	HTML file (753 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/legal//
+10:59:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1382
+10:59:13	Warning: 	Moved Permanently for https://wineandrubs.co.ke/legal//
+10:59:13	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wineandrubs.co.ke/legal// and https://wineandrubs.co.ke/legal/
+10:59:13	Warning: 	File has moved from https://wineandrubs.co.ke/legal// to https://wineandrubs.co.ke/legal/
+10:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/318/318490/woman-having-head-and-neck-massaged.jpg?w=1155&h=1541
+10:59:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/318/318490/doctor-pointing-at-a-model-of-the-spine.jpg?w=1155&h=1541
+10:59:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/318/318490/woman-with-asthma-using-inhaler.jpg?w=1155&h=1642
+10:59:24	Warning: 	HTML file (790 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/anti-cellulite-massage/feed/
+10:59:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fcraniosacral-therapy-does-it-work%2F&format=xml
+10:59:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1378
+10:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fanti-cellulite-massage%2F
+10:59:45	Warning: 	HTML file (868 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/incorporating-massage-into-your-wellness-routine/feed/
+10:59:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fanti-cellulite-massage%2F&format=xml
+10:59:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1124
+10:59:52	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/how-pain-can-affect-your-emotional-wellness/feed/
+10:59:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1053
+11:00:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fincorporating-massage-into-your-wellness-routine%2F&format=xml
+11:00:08	Warning: 	HTML file (853 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/feed/
+11:00:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/wp/v2/posts/1043
+11:00:14	Warning: 	Warning: store text/css without scan: /home/victor/websites/massage site/gmpg.org/xfn/default.css
+11:00:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fhow-pain-can-affect-your-emotional-wellness%2F&format=xml
+11:00:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Falcohol-massage-should-you-mix-the-two%2F
+11:00:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Falcohol-massage-should-you-mix-the-two%2F&format=xml
+11:00:21	Warning: 	HTML file (636 bytes) retransferred due to lack of cache: wineandrubs.co.ke/packages/
+11:00:54	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=71
+11:00:55	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=71
+11:00:55	Warning: 	File has moved from https://wineandrubs.co.ke/?p=71 to https://wineandrubs.co.ke/who-we-are/
+11:00:55	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=884
+11:00:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=884 (from https://wineandrubs.co.ke/reviews/)
+11:00:56	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1343
+11:00:56	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=884
+11:00:57	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1343
+11:00:57	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1343 to https://wineandrubs.co.ke/catalogue/
+11:00:57	Warning: 	HTML file (656 bytes) retransferred due to lack of cache: wineandrubs.co.ke/massage-indicators/
+11:00:58	Warning: 	Moved Permanently for wineandrubs.co.ke/massage-indicators/
+11:00:58	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/massage-indicators/ and https://wineandrubs.co.ke/massage-indicators/
+11:00:58	Warning: 	File has moved from wineandrubs.co.ke/massage-indicators/ to https://wineandrubs.co.ke/massage-indicators/
+11:00:58	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=171
+11:00:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=171 (from https://wineandrubs.co.ke/book-now/)
+11:00:59	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=171
+11:01:03	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1164
+11:01:04	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1164
+11:01:04	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1164 to https://wineandrubs.co.ke/product/gift-card/
+11:01:04	Warning: 	HTML file (72373 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/product-category/gifts-vouchers/
+11:01:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/product-category/gifts-vouchers/ (from https://wineandrubs.co.ke/product/gift-card/)
+11:01:05	Warning: 	HTML file (72373 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/product-category/gifts-vouchers/
+11:01:05	Warning: 	HTML file (111892 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/category/winenrubs/
+11:01:08	Warning: 	HTML file (91735 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/what-is-sensual-massage/
+11:01:12	Warning: 	HTML file (99257 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/
+11:01:15	Warning: 	HTML file (97781 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/anti-cellulite-massage/
+11:01:18	Warning: 	HTML file (94109 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/incorporating-massage-into-your-wellness-routine/
+11:01:21	Warning: 	HTML file (94484 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/how-pain-can-affect-your-emotional-wellness/
+11:01:24	Warning: 	HTML file (93495 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/
+11:01:27	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=83
+11:01:29	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=83
+11:01:29	Warning: 	File has moved from https://wineandrubs.co.ke/?p=83 to https://wineandrubs.co.ke/my-account/
+11:01:29	Warning: 	HTML file (139037 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/my-account/lost-password/
+11:01:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/my-account/lost-password/ (from https://wineandrubs.co.ke/my-account/)
+11:01:30	Warning: 	HTML file (139037 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/my-account/lost-password/
+11:01:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.5
+11:01:32	Warning: 	HTML file (771 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1011
+11:01:33	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1011
+11:01:33	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1011 to https://wineandrubs.co.ke/services/
+11:01:33	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=3360
+11:01:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=3360 (from https://wineandrubs.co.ke/what-is-myofascial-release-and-does-it-work/)
+11:01:34	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=3360
+11:01:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wineandrubs.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwineandrubs.co.ke%2Fwhat-is-myofascial-release-and-does-it-work%2F&format=xml
+11:01:37	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=2038
+11:01:38	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=2038
+11:01:38	Warning: 	File has moved from https://wineandrubs.co.ke/?p=2038 to https://wineandrubs.co.ke/so-what-exactly-is-an-ayurvedic-massage/
+11:01:38	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1390
+11:01:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1390 (from https://wineandrubs.co.ke/what-is-sensual-massage/)
+11:01:39	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1390
+11:01:39	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1385
+11:01:40	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1385
+11:01:40	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1385 to https://wineandrubs.co.ke/what-yoni-massage-is-and-how-to-practice-it/
+11:01:40	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1382
+11:01:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1382 (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+11:01:41	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1382
+11:01:41	Warning: 	Retry after error -2 (Connect Time Out) at link faculty.une.edu/com/shartman/sram.pdf (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+11:01:41	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1378
+11:01:43	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1378
+11:01:43	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1378 to https://wineandrubs.co.ke/anti-cellulite-massage/
+11:01:43	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1124
+11:01:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1124 (from https://wineandrubs.co.ke/incorporating-massage-into-your-wellness-routine/)
+11:01:44	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1124
+11:01:44	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1053
+11:01:46	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1053
+11:01:46	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1053 to https://wineandrubs.co.ke/how-pain-can-affect-your-emotional-wellness/
+11:01:46	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1043
+11:01:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1043 (from https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/)
+11:01:47	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1043
+11:01:47	Error: 	"Not Found" (404) at link https://wineandrubs.co.ke/wp-content/themes/blossom-spa/images/bg-search.png (from https://wineandrubs.co.ke/wp-content/themes/blossom-spa/css/woocommerce.min.css?ver=1.3.5)
+11:01:47	Error: 	"Not Found" (404) at link https://wineandrubs.co.ke/wp-content/themes/blossom-spa/css/owl.video.play.png (from https://wineandrubs.co.ke/wp-content/themes/blossom-spa/css/owl.carousel.min.css?ver=2.2.1)
+11:01:47	Warning: 	Moved Permanently for wineandrubs.co.ke/packages/
+11:01:47	Warning: 	Redirected link is identical because of 'URL Hack' option: wineandrubs.co.ke/packages/ and https://wineandrubs.co.ke/packages/
+11:01:47	Warning: 	File has moved from wineandrubs.co.ke/packages/ to https://wineandrubs.co.ke/packages/
+11:01:47	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=884
+11:01:47	Warning: 	File has moved from https://wineandrubs.co.ke/?p=884 to https://wineandrubs.co.ke/reviews/
+11:01:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=171 (from https://wineandrubs.co.ke/book-now/)
+11:01:47	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=171
+11:01:47	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=3360
+11:01:47	Warning: 	File has moved from https://wineandrubs.co.ke/?p=3360 to https://wineandrubs.co.ke/what-is-myofascial-release-and-does-it-work/
+11:01:47	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1390
+11:01:47	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1390 to https://wineandrubs.co.ke/what-is-sensual-massage/
+11:01:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1382 (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+11:01:47	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1382
+11:03:41	Warning: 	Retry after error -2 (Connect Time Out) at link faculty.une.edu/com/shartman/sram.pdf (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+11:03:41	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1124
+11:03:41	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1124 to https://wineandrubs.co.ke/incorporating-massage-into-your-wellness-routine/
+11:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wineandrubs.co.ke/?p=1043 (from https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/)
+11:03:41	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: https://wineandrubs.co.ke/?p=1043
+11:03:41	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=171
+11:03:41	Warning: 	File has moved from https://wineandrubs.co.ke/?p=171 to https://wineandrubs.co.ke/book-now/
+11:03:41	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1382
+11:03:41	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1382 to https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/
+11:05:41	Error: 	"Connect Time Out" (-2) after 2 retries at link faculty.une.edu/com/shartman/sram.pdf (from https://wineandrubs.co.ke/craniosacral-therapy-does-it-work/)
+11:05:41	Warning: 	Moved Permanently for https://wineandrubs.co.ke/?p=1043
+11:05:41	Warning: 	File has moved from https://wineandrubs.co.ke/?p=1043 to https://wineandrubs.co.ke/alcohol-massage-should-you-mix-the-two/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 58 seconds : 382 links scanned, 411 files written (21470019 bytes overall) [15058955 bytes received at 13232 bytes/sec], 9149613 bytes transferred using HTTP compression in 186 files, ratio 29%, 2.4 requests per connection
+(9 errors, 228 warnings, 0 messages)

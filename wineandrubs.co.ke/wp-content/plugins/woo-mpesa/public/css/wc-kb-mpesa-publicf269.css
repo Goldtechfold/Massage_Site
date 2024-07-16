@@ -1,0 +1,79 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.wc-kb-mpesa-notices{
+  border: 1px solid;
+  margin: 10px 0px;
+  padding: 15px 10px 15px 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  display: none;
+}
+.wc-kb-mpesa-notices-info {
+  color: #00529B;
+  background-color: #BDE5F8;
+  background-image: url('https://imgur.com/ilgqWuX');
+}
+.wc-kb-mpesa-notices-success {
+  color: #4F8A10;
+  background-color: #DFF2BF;
+  background-image: url('https://imgur.com/Q9BGTuy');
+}
+.wc-kb-mpesa-notices-warning {
+  color: #9F6000;
+  background-color: #FEEFB3;
+  background-image: url('https://imgur.com/Z8q7ww7');
+}
+.wc-kb-mpesa-notices-error{
+  color: #D8000C;
+  background-color: #FFBABA;
+  background-image: url('https://imgur.com/GnyDvKN');
+}
+.wc-kb-mpesa-notices-validation{
+  color: #D63301;
+  background-color: #FFCCBA;
+  background-image: url('https://imgur.com/GnyDvKN');
+}
+
+.wc-kb-mpesa-pay-btn{
+  margin-right:300px;
+}
+
+.wc-kb-mpesa-loader-wrap{
+  display: none;
+}
+.wc-kb-mpesa-loader-text{
+  float: left;
+}
+
+.wc-kb-mpesa-loader{
+    float: left;
+    margin-right: 5px;
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    border-radius: 100%;  
+    -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
+    animation: sk-scaleout 1.0s infinite ease-in-out;
+  }
+  
+  @-webkit-keyframes sk-scaleout {
+    0% { -webkit-transform: scale(0) }
+    100% {
+      -webkit-transform: scale(1.0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes sk-scaleout {
+    0% { 
+      -webkit-transform: scale(0);
+      transform: scale(0);
+    } 100% {
+      -webkit-transform: scale(1.0);
+      transform: scale(1.0);
+      opacity: 0;
+    }
+  }
